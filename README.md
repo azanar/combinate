@@ -1,3 +1,7 @@
+[![Gem Version](https://badge.fury.io/rb/combinate.svg)](https://badge.fury.io/rb/combinate)
+[![Build Status](https://travis-ci.org/azanar/combinate.svg?branch=master)](https://travis-ci.org/azanar/combinate)
+
+
 # Combinate
 
 A simple utility gem that combines all products of all combinations of an array of arrays, including combinations where some or all of the arrays are not chosen from at all.
